@@ -1,0 +1,27 @@
+Script started on Sat 28 May 2016 07:24:01 PM CST
+[root@jordan787878 lab7]# ./mainpro 
+0010
+0010
+0010
+0010
+0000
+0010
+0111
+0000
+0000
+0000
+0011
+0011
+[root@jordan787878 lab7]# 
+[root@jordan787878 lab7]# 
+[root@jordan787878 lab7]# exit
+
+Script done on Sat 28 May 2016 07:24:25 PM CST
+
+
+Above is the running process of my program
+There are two additional Mino, MinoT and MinoO added
+
+Well,to be honestly.
+I compile this program by following the CH9 pdf logic.
+Rather simple and needn't to say more.
